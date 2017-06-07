@@ -88,7 +88,7 @@
   left:0px;
   top:0px;
   width:253px;
-  height:25px;
+  height:24px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -96,7 +96,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
   color:#999999;
@@ -107,8 +107,8 @@
   left:58px;
   top:595px;
   width:253px;
-  height:25px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  height:24px;
+  font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
   color:#999999;
@@ -127,7 +127,7 @@
   left:0px;
   top:0px;
   width:253px;
-  height:25px;
+  height:24px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -135,7 +135,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
   color:#999999;
@@ -146,8 +146,8 @@
   left:58px;
   top:560px;
   width:253px;
-  height:25px;
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  height:24px;
+  font-family:'微软雅黑 Bold', '微软雅黑';
   font-weight:700;
   font-style:normal;
   color:#999999;
@@ -177,7 +177,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:22px;
@@ -190,7 +190,7 @@
   top:397px;
   width:331px;
   height:48px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:22px;
@@ -213,7 +213,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'微软雅黑';
   font-weight:400;
   font-style:normal;
   font-size:22px;
@@ -225,7 +225,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:11px;
+  top:9px;
   width:327px;
   word-wrap:break-word;
 }
@@ -401,6 +401,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
   font-size:22px;
   color:#666666;
 }
@@ -411,6 +414,9 @@
   top:245px;
   width:267px;
   height:68px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
   font-size:22px;
   color:#666666;
 }
@@ -418,7 +424,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:21px;
+  top:19px;
   width:267px;
   word-wrap:break-word;
 }
@@ -460,6 +466,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
   font-size:22px;
   color:#666666;
 }
@@ -470,6 +479,9 @@
   top:179px;
   width:267px;
   height:68px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
   font-size:22px;
   color:#666666;
 }
@@ -477,7 +489,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:21px;
+  top:19px;
   width:267px;
   word-wrap:break-word;
 }
@@ -495,8 +507,8 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
-  font-weight:650;
+  font-family:'微软雅黑 Bold', '微软雅黑';
+  font-weight:700;
   font-style:normal;
   font-size:22px;
   color:#999999;
@@ -509,8 +521,8 @@
   top:47px;
   width:375px;
   height:30px;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
-  font-weight:650;
+  font-family:'微软雅黑 Bold', '微软雅黑';
+  font-weight:700;
   font-style:normal;
   font-size:22px;
   color:#999999;
@@ -520,7 +532,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:2px;
+  top:0px;
   width:375px;
   word-wrap:break-word;
 }
@@ -596,6 +608,72 @@
   left:2px;
   top:-8px;
   width:166px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u33_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:245px;
+  height:24px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'微软雅黑 Bold', '微软雅黑';
+  font-weight:700;
+  font-style:normal;
+  color:#999999;
+  text-align:center;
+}
+#u33 {
+  border-width:0px;
+  position:absolute;
+  left:66px;
+  top:340px;
+  width:245px;
+  height:24px;
+  font-family:'微软雅黑 Bold', '微软雅黑';
+  font-weight:700;
+  font-style:normal;
+  color:#999999;
+  text-align:center;
+}
+#u34 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:245px;
+  word-wrap:break-word;
+}
+#u35_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:116px;
+  height:47px;
+}
+#u35 {
+  border-width:0px;
+  position:absolute;
+  left:127px;
+  top:98px;
+  width:116px;
+  height:47px;
+}
+#u36 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:16px;
+  width:112px;
   visibility:hidden;
   word-wrap:break-word;
 }
